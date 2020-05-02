@@ -1,4 +1,4 @@
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9272,0.9067,0.9477
 GB,0.7238,0.6984,0.7493
 KNN,0.9139,0.8917,0.9360
@@ -9,9 +9,7 @@ SVM,0.6903,0.6499,0.7306
 XGB,0.7525,0.7017,0.8032
 ,,,
 ,,,
-,,,
-,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9312,0.9115,0.9510
 GB,0.6825,0.6543,0.7107
 KNN,0.9109,0.8882,0.9336
@@ -22,9 +20,7 @@ SVM,0.6020,0.5968,0.6071
 XGB,0.7126,0.6631,0.7620
 ,,,
 ,,,
-,,,
-,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9433,0.9225,0.9640
 GB,0.7720,0.7047,0.8393
 KNN,0.9313,0.9080,0.9546
@@ -35,9 +31,7 @@ SVM,0.5005,0.4419,0.5591
 XGB,0.7952,0.7459,0.8444
 ,,,
 ,,,
-,,,
-,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9263,0.9058,0.9467
 GB,0.7004,0.6031,0.7977
 KNN,0.9127,0.8897,0.9356
@@ -48,9 +42,7 @@ SVM,0.4585,0.4702,0.4468
 XGB,0.7471,0.6805,0.8137
 ,,,
 ,,,
-,,,
-,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9009,0.8859,0.9159
 GB,0.6164,0.5803,0.6525
 KNN,0.8800,0.8644,0.8956
@@ -61,9 +53,7 @@ SVM,0.4567,0.4341,0.4793
 XGB,0.6455,0.6042,0.6867
 ,,,
 ,,,
-,,,
-,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9191,0.8967,0.9416
 GB,0.7005,0.6279,0.7730
 KNN,0.9039,0.8794,0.9283
@@ -74,9 +64,7 @@ SVM,0.5022,0.4698,0.5345
 XGB,0.7420,0.6870,0.7970
 ,,,
 ,,,
-,,,
-,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9408,0.9208,0.9608
 GB,0.7580,0.6949,0.8210
 KNN,0.9267,0.9046,0.9489
@@ -89,7 +77,7 @@ XGB,0.7540,0.6764,0.8317
 ,,,
 ,,,
 ,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9051,0.8886,0.9216
 GB,0.6554,0.6238,0.6870
 KNN,0.8705,0.8692,0.8718
@@ -102,7 +90,7 @@ XGB,0.6728,0.6416,0.7039
 ,,,
 ,,,
 ,,,
-,AVG,AVG Existing Model,AVG Proposed Model
+Classifier,AVG,AVG Existing Model,AVG Proposed Model
 DT,0.9053,0.8881,0.9225
 GB,0.6552,0.6240,0.6864
 KNN,0.8715,0.8689,0.8741
